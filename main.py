@@ -42,19 +42,19 @@ import random
 # TODO: Create a list of characters (at least 3)
 characters = []
 
-# TODO: Create a list of places (at least 3)
-places = []
-
 # TODO: Create a list of actions (at least 3)
 actions = []
+
+# TODO: Create a list of places (at least 3)
+places = []
 
 # TODO: Use random.choice() to pick one character
 character = None
 
-# TODO: Use random.choice() to pick one place
-place = None
-
 # TODO: Use random.choice() to pick one action
 action = None
+
+# TODO: Use random.choice() to pick one place
+place = None
 
 # TODO: Print the full random story sentence
